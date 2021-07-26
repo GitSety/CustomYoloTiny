@@ -1,4 +1,4 @@
-classes= 2
+classes= 27
 train  = /content/CustomYoloTiny/train.txt
 valid  = /content/CustomYoloTiny/valid.txt
 names = /content/CustomYoloTiny/obj.names
